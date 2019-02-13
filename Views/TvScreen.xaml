@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="try2.Views.TvScreen">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <Button x:Name="Btn_Channel_Plus" Text="+" Clicked="btnChannelPlusPressed"
+                    AbsoluteLayout.LayoutBounds="0.8,0.3,0.2,0.1" AbsoluteLayout.LayoutFlags="All"/>
+            <Button x:Name="Btn_Channel_Minus" Text="-" Clicked="btnChannelMinusPressed"
+                    AbsoluteLayout.LayoutBounds="0.8,0.5,0.2,0.1" AbsoluteLayout.LayoutFlags="All"/>
+            <Button x:Name="Btn_Volume_Plus" Text="+"  Clicked="btnVloumePlusPressed"
+                    AbsoluteLayout.LayoutBounds="0.2,0.3,0.2,0.1" AbsoluteLayout.LayoutFlags="All"/>
+            <Button x:Name="Btn_Volume_Minus" Text="-" Clicked="btnVloumeMinusPressed"
+                    AbsoluteLayout.LayoutBounds="0.2,0.5,0.2,0.1" AbsoluteLayout.LayoutFlags="All"/>
+            <Button x:Name="Btn_On" Text="On" Clicked="btnOnPressed"
+                    AbsoluteLayout.LayoutBounds="0.7,0.8,0.3,0.1" AbsoluteLayout.LayoutFlags="All"/>
+            <Button x:Name="Btn_Off" Text="Off"  Clicked="btnOffPressed"
+                    AbsoluteLayout.LayoutBounds="0.3,0.8,0.3,0.1" AbsoluteLayout.LayoutFlags="All"/>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

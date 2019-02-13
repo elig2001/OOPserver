@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="try2.Views.SwitchScreen">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <Button x:Name="Btn_On" Text="On" 
+                    AbsoluteLayout.LayoutBounds="0.3,0.5,0.2,0.1" AbsoluteLayout.LayoutFlags="All"/>
+            <Button x:Name="Btn_Off" Text="Off" 
+                    AbsoluteLayout.LayoutBounds="0.7,0.5,0.2,0.1" AbsoluteLayout.LayoutFlags="All"/>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

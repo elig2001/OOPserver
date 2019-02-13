@@ -1,0 +1,17 @@
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\bin\Debug\netstandard2.0\try2.deps.json
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\bin\Debug\netstandard2.0\try2.dll
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\bin\Debug\netstandard2.0\try2.pdb
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\try2.csprojAssemblyReference.cache
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\try2.csproj.CoreCompileInputs.cache
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\try2.AssemblyInfoInputs.cache
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\try2.AssemblyInfo.cs
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\try2.dll
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\try2.pdb
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\Views\LoginScreen.xaml.g.cs
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\Views\DeviceMenuScreen.xaml.g.cs
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\Views\AirConditionerScreen.xaml.g.cs
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\Views\TvScreen.xaml.g.cs
+C:\Users\magshimim\Documents\Magshimim\android app try\try2\try2\try2\obj\Debug\netstandard2.0\Views\SwitchScreen.xaml.g.cs

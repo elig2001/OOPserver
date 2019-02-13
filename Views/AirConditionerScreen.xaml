@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="try2.Views.AirConditionerScreen">
+    <ContentPage.Content>
+        <StackLayout Spacing="40">
+
+
+            <Label Text=""/>
+            
+            <StackLayout Spacing=" 10">
+
+                <Picker x:Name="Picker_Temp" Title="Select Temperature">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:Int16}">
+                            <x:Int16>16</x:Int16>
+                            <x:Int16>17</x:Int16>
+                            <x:Int16>18</x:Int16>
+                            <x:Int16>19</x:Int16>
+                            <x:Int16>20</x:Int16>
+                            <x:Int16>21</x:Int16>
+                            <x:Int16>22</x:Int16>
+                            <x:Int16>23</x:Int16>
+                            <x:Int16>24</x:Int16>
+                            <x:Int16>25</x:Int16>
+                            <x:Int16>26</x:Int16>
+                            <x:Int16>27</x:Int16>
+                            <x:Int16>28</x:Int16>
+                            <x:Int16>29</x:Int16>
+                            <x:Int16>30</x:Int16>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+
+                <Picker x:Name="Picker_Mode" Title="Select Mode">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>Cool</x:String>
+                            <x:String>Heat</x:String>
+                            <x:String>Dry</x:String>
+                            <x:String>Fan</x:String>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+
+                <Picker x:Name="Picker_Power" Title="Select Power">
+                    <Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:Int16}">
+                            <x:Int16>1</x:Int16>
+                            <x:Int16>2</x:Int16>
+                            <x:Int16>3</x:Int16>
+                        </x:Array>
+                    </Picker.ItemsSource>
+                </Picker>
+            </StackLayout>
+
+            <Button Text="Send" HorizontalOptions="Center" Clicked="PressedSend"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
